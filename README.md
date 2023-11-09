@@ -1,4 +1,4 @@
-# Basic Framework of our Research
+# Basic Framework
 
 ![alt text](chart.png)
 
